@@ -1,0 +1,19 @@
+.preview {
+  margin-top: 10px;
+    max-width: 200px;
+    margin-bottom: 10px;
+  }
+
+  .btnUpload{
+    width: 100%;
+  }
+
+  .response{
+    word-break: break-all;
+  }
+
+  .structure{
+    overflow-y: auto;
+    height: 300px;
+    text-align: left;
+  }
